@@ -11,3 +11,4 @@ Se você passou por aqui, deixe sua assinatura para registrar sua visita! 😄
 - Felipe Birchal
 - Bruno Máximo
 - Felipe Alves 🚀
+- Eduardo Leffa 📖
