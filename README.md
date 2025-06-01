@@ -1,9 +1,9 @@
-# 🚀 Formação GitHub Certification - DIO
-
-Bem-vindo ao meu repositório dedicado à **Formação GitHub Certification** da [Digital Innovation One](https://www.dio.me/). Aqui você encontrará minha jornada de aprendizado sobre o ecossistema GitHub e práticas modernas de versionamento e colaboração. 🐙
-
 ## 🤝 Assinaturas
   ### Assinaturas são muito bem-vindas! Sinta-se à vontade para enviar um pull request adicionando sua assinatura [aqui!!](./Livro-de-Visitas.md) <3
+
+## Formação GitHub Certification - DIO
+
+### Bem-vindo ao meu repositório dedicado à **Formação GitHub Certification** da [Digital Innovation One](https://www.dio.me/). Aqui você encontrará minha jornada de aprendizado sobre o ecossistema GitHub e práticas modernas de versionamento e colaboração. 🐙
 
 
 ---
