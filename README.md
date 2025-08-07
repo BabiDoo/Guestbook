@@ -1,59 +1,61 @@
-## 🤝 Assinaturas
-  ### Assinaturas são muito bem-vindas! Sinta-se à vontade para enviar um pull request adicionando sua assinatura [aqui!!](./Livro-de-Visitas.md) <3
+## 🤝 Sign the Guestbook!
 
-## Formação GitHub Certification - DIO
+**You're very welcome to leave your signature here!**  
+This repository was created as a **GitHub Guestbook**, where visitors can practice opening Pull Requests and Issues by signing their name [here!](./Livro-de-Visitas.md) 💌
 
-### Bem-vindo ao meu repositório dedicado à **Formação GitHub Certification** da [Digital Innovation One](https://www.dio.me/). Aqui você encontrará minha jornada de aprendizado sobre o ecossistema GitHub e práticas modernas de versionamento e colaboração. 🐙
-
+If you're learning Git, improving your collaboration skills, or just passing by — feel free to add your message!  
+This is a fun space to experiment with **GitHub workflows**.
 
 ---
 
-## 🗂️ Conteúdos Abordados
+## 🧭 GitHub Certification Training - DIO
 
-### **📖 Cursos**
-- **Princípios do Git e GitHub**  
-  - Introdução aos conceitos básicos e comandos essenciais.
-- **Autenticações**  
-  - Configuração de autenticação segura no GitHub.
-- **Colaboração no GitHub**  
-  - Trabalho em equipe, pull requests e resolução de conflitos.
-- **Formatação com Markdown**  
-  - Criação de documentações elegantes com Markdown.
-- **Conhecendo a Administração do GitHub**  
-  - Gerenciamento de repositórios e configurações avançadas.
-- **Sobre Contas e Ferramentas do GitHub**  
-  - Uso de recursos úteis para maximizar a produtividade.
-- **Gerenciando Seu Trabalho Com GitHub Projects**  
-  - Organização de tarefas com GitHub Projects.
+Welcome to my repository dedicated to the **GitHub Certification Program** by [Digital Innovation One (DIO)](https://www.dio.me/).  
+Here you'll find my journey through modern version control practices and the GitHub ecosystem. 🐙
+
+---
+
+## 🗂️ Table of Contents
+
+### **📖 Courses**
+- **Git and GitHub Principles**  
+  - Introduction to basic concepts and essential commands.
+- **Authentication**  
+  - Secure authentication configuration on GitHub.
+- **Collaborating on GitHub**  
+  - Teamwork, pull requests, and conflict resolution.
+- **Markdown Formatting**  
+  - Creating elegant documentation using Markdown.
+- **GitHub Administration**  
+  - Managing repositories and advanced settings.
+- **GitHub Accounts and Tools**  
+  - Tools and features to boost productivity.
+- **Managing Work with GitHub Projects**  
+  - Task and workflow organization using GitHub Projects.
 - **GitHub Copilot**  
-  - Introdução ao uso de inteligência artificial para acelerar o desenvolvimento.
-- **GitHub Codespace**  
-  - Configuração e utilização de ambientes de desenvolvimento na nuvem.
----
-
-## 🎯 Progresso
-
-| Módulo                                               | Status       |
-| ---------------------------------------------------- | ------------ |
-| **Princípios do Git e GitHub**                      | ✅ Concluído |
-| **Autenticações**                                   | ✅ Concluído |
-| **Colaboração no GitHub**                           | ✅ Concluído |
-| **Formatação com Markdown**                         | ✅ Concluído |
-| **Explorando Colaboração e Markdown**               | ✅ Concluído |
-| **Conhecendo a Administração do GitHub**            | ✅ Concluído|
-| **Sobre Contas e Ferramentas do GitHub**            | ✅ Concluído |
-| **Gerenciando Seu Trabalho Com GitHub Projects**    | ✅ Concluído |
-| **GitHub Copilot**                                  | ✅ Concluído |
-| **GitHub Codespace**                                | ✅ Concluído |
-| **Utilizando Recursos do GitHub em um Projeto Open Source** | ✅ Concluído |
-| **Utilizando as Ferramentas do GitHub para Solucionar Algoritmos em Python** | ✅ Concluído |
-
+  - Getting started with AI to accelerate development.
+- **GitHub Codespaces**  
+  - Configuring and using cloud-based development environments.
 
 ---
 
-✨ **Obrigado por conferir! Se gostou, deixe uma estrela neste repositório.** ⭐
+## 🎯 Progress
 
+| Module                                                                  | Status       |
+| ----------------------------------------------------------------------- | ------------ |
+| **Git and GitHub Principles**                                           | ✅ Completed |
+| **Authentication**                                                     | ✅ Completed |
+| **Collaborating on GitHub**                                            | ✅ Completed |
+| **Markdown Formatting**                                                | ✅ Completed |
+| **Exploring Collaboration and Markdown**                               | ✅ Completed |
+| **GitHub Administration**                                              | ✅ Completed |
+| **GitHub Accounts and Tools**                                          | ✅ Completed |
+| **Managing Work with GitHub Projects**                                 | ✅ Completed |
+| **GitHub Copilot**                                                     | ✅ Completed |
+| **GitHub Codespaces**                                                  | ✅ Completed |
+| **Using GitHub Features in an Open Source Project**                    | ✅ Completed |
+| **Solving Python Algorithms Using GitHub Tools**                       | ✅ Completed |
 
+---
 
-
-   
+✨ **Thanks for stopping by! If you liked this project, consider leaving a star.** ⭐
