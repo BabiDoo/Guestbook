@@ -1,12 +1,10 @@
 # ✍️ Guestbook
 
-Welcome!  
-If you're visiting this repository, you're invited to **sign the guestbook** by adding your name below.  
-This is a fun and simple way to practice **GitHub Pull Requests** and contribute to an open repo!
+Welcome!
 
 ## 📌 How to sign the guestbook
-
-Want to leave your signature? Follow these simple steps to contribute — it's a great way to practice using GitHub! 💡
+This is a fun and simple way to practice **GitHub Pull Requests** and contribute to an open repo!
+Want to leave your signature? Follow these simple steps to contribute:
 
 ### Step-by-step:
 
@@ -36,10 +34,11 @@ Replace `your-username` with your actual GitHub username.
    ```
 
 5. **Open a Pull Request (PR)**
+
    Go to your forked repository on GitHub. You should see a yellow banner suggesting you to "Compare & Pull Request".
    Click it, review your changes, and click **"Create Pull Request"**.
 
-6. **Done! 🎉**
+7. **Done! 🎉**
    Once your PR is approved and merged, your name will be added to the guestbook!
 
 Your contribution will be reviewed and merged — just like a real open source workflow!
