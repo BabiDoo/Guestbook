@@ -1,7 +1,7 @@
 ## 🤝 Sign the Guestbook!
 
 **You're very welcome to leave your signature here!**  
-This repository was created as a **GitHub Guestbook**, where visitors can practice opening Pull Requests and Issues by signing their name [here!](./Livro-de-Visitas.md) 💌
+This repository was created as a **GitHub Guestbook**, where visitors can practice opening Pull Requests and Issues by signing their name [here!](./Guest-Book.md) 💌
 
 If you're learning Git, improving your collaboration skills, or just passing by — feel free to add your message!  
 This is a fun space to experiment with **GitHub workflows**.
