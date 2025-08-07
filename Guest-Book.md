@@ -21,3 +21,15 @@ Your contribution will be reviewed and merged — just like a real open source w
 - Bruno Máximo
 - Felipe Alves 🚀
 - Eduardo Leffa 📖
+
+---
+
+## ⭐ Show your support
+
+If you enjoyed this little project, don’t forget to leave a star!
+
+[![Star this repo](https://img.shields.io/github/stars/BabiDoo/Guestbook?style=social)](https://https://github.com/BabiDoo/Guestbook)
+
+---
+
+Thank you for visiting! 🙌
