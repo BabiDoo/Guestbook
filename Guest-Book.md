@@ -11,7 +11,7 @@ This is a fun and simple way to practice **GitHub Pull Requests** and contribute
 - Bruno Máximo
 - Felipe Alves 🚀
 - Eduardo Leffa 📖
-
+- Luiz Henrique Meira Andrade Leite🔧
 ---
 
 Thank you for visiting! 🙌
