@@ -58,4 +58,8 @@ Here you'll find my journey through modern version control practices and the Git
 
 ---
 
-✨ **Thanks for stopping by! If you liked this project, consider leaving a star.** ⭐
+## ⭐ Show your support
+
+If you enjoyed this little project, don’t forget to leave a star!
+
+[![Star this repo](https://img.shields.io/github/stars/BabiDoo/Guestbook?style=social)](https://https://github.com/BabiDoo/Guestbook)
