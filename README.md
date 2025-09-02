@@ -1,11 +1,10 @@
-## 🤝 Sign the Guestbook!
-**You're very welcome to leave your signature here!**  
-This repository was created as a **GitHub Guestbook**, where visitors can practice opening Pull Requests and Issues by signing their name [here!](./Guest-Book.md)
+## 🤝 You're very welcome to leave your signature here! 
+This repository was created as a **GitHub Guestbook**, where visitors can practice opening Pull Requests and Issues
+by signing their name [here!](./Guest-Book.md)
 
 If you're learning Git, improving your collaboration skills, or just passing by — feel free to add your message!  
 This is a fun space to experiment with **GitHub workflows**.
 ## 📌 How to sign the guestbook
-Want to leave your signature? Follow these simple steps to contribute:
 
 ### Step-by-step:
 
@@ -13,7 +12,7 @@ Want to leave your signature? Follow these simple steps to contribute:
    Click the `Fork` button in the top-right corner of the page. This will create a copy of the repository under your GitHub account.
 
 2. **Clone your forked repository**  
-   Copy the URL from your fork and run the command below in your terminal (or use GitHub Desktop):
+   Copy the URL from ***your*** fork and run the command below in your terminal (or use GitHub Desktop):
    ```bash
    git clone https://github.com/your-username/Guestbook.git
 Replace `your-username` with your actual GitHub username.
