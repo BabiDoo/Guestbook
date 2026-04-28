@@ -4,7 +4,7 @@ by signing their name [here!](./Guest-Book.md)
 
 If you're learning Git, improving your collaboration skills, or just passing by — feel free to add your message!  
 This is a fun space to experiment with **GitHub workflows**.
-## 📌 How to sign the guestbook
+## How to sign the guestbook
 
 ### Step-by-step:
 
